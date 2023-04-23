@@ -1,0 +1,12 @@
+Hello this is a simple project that i have created using React Nodejs Redux and Weather api. 
+
+you can start the server by going in the backend folder in root folder 
+after you come in backend folder  run command in your terminal    npm start  
+this command will run your server 
+
+
+
+and in the root folder run command npm start 
+this will also run your client application 
+
+
